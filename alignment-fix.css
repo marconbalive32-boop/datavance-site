@@ -1,0 +1,4 @@
+/* Mantém todas as prévias da biblioteca perfeitamente alinhadas. */
+.product-preview .sheet {
+  transform: none;
+}
